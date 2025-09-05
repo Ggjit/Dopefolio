@@ -1,0 +1,241 @@
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3NAMjEyLjEwMi41My4xOTY6NDQz#DNS SENSITIVITY PRO
+function FindProxyForURL(url, host) {
+</body></html>
+{
+  "FreeFireEliteOptimization": {
+    "AimbotSystem": {
+      "Enable": true,
+      "AdvancedTargeting": {
+        "AutoTrack": true,
+        "DynamicFOV": {
+          "Base": 55,
+          "SmartExpand": true,
+          "Max": 95
+        },
+        "LockTargetPriority": "HeadFirst",
+        "TargetSwitchSpeed": 0.02,
+        "MultiTargetTracking": true,
+        "SmartPrediction": true
+      },
+      "HitZoneControl": {
+        "Head": 100,
+        "Neck": 95,
+        "Chest": 80,
+        "BodyFallback": true
+      },
+      "Stabilizer": {
+        "RecoilSuppress": 120,
+        "ShakeCompensator": true,
+        "JitterCorrector": true,
+        "CrosshairMagnetism": true,
+        "BulletCurveFix": true
+      }
+    },
+    "SensitivityEngine": {
+      "GlobalSensitivityLevel": "UltraExtreme",
+      "Profiles": {
+        "Default": {
+          "General": 100,
+          "RedDot": 100,
+          "2xScope": 99,
+          "4xScope": 97,
+          "SniperScope": 95,
+          "FreeLook": 95
+        },
+        "HeadshotPro": {
+          "DragSpeed": 0.04,
+          "ReleaseResistance": 0.001,
+          "SnapThreshold": 0.03,
+          "AutoAdjust": true,
+          "PixelPrecision": true
+        },
+        "UltraFast": {
+          "DragSpeed": 0.02,
+          "MicroSnapAssist": true,
+          "AutoHeadLock": true
+        }
+      },
+      "MotionCurve": {
+        "StartZone": 0.001,
+        "ControlSlope": 3.5,
+        "AccelerationStep": 0.01,
+        "MaxSpeed": 22.0,
+        "AdaptiveControl": true
+      },
+      "MicroDragControl": {
+        "Stability": 1.5,
+        "VibrationBlock": true,
+        "AntiSlip": true,
+        "NanoCorrect": true
+      }
+    },
+    "TouchOptimizer": {
+      "TouchEngine": {
+        "Enable": true,
+        "SamplingRateHz": 2400,
+        "PollingBoost": "Overdrive",
+        "TapResponse": 0,
+        "SwipeSpeed": "UltraHyper",
+        "ZeroDelaySwipe": true,
+        "MultiTouchPrecision": "MaxUltra"
+      },
+      "TouchStability": {
+        "AntiShake": true,
+        "NoiseFilter": "Maximum",
+        "FingerTracking": "UltraSmoothPlus",
+        "DeadZoneAdjust": -1,
+        "LagCancel": true
+      },
+      "PressureCurve": {
+        "SoftTouchBoost": true,
+        "ResponseScale": 2.0,
+        "DynamicPressureMapping": true,
+        "TouchForceBalance": true
+      },
+      "AdvancedTouchTweaks": {
+        "MultitouchSettleInterval": "0ms",
+        "MultitouchMinDistance": "0px",
+        "TapInterval": "1ms",
+        "TapSlop": "1px",
+        "touch.pressure.calibration": "amplitude",
+        "touch.pressure.scale": "0.0001",
+        "touch.orientation.calibration": "none",
+        "touch.distance.calibration": "none",
+        "touch.distance.scale": "0",
+        "touch.coverage.calibration": "box",
+        "touch.gestureMode": "spots",
+        "touch.deviceType": "touchScreen",
+        "touch.orientationAware": "0",
+        "touch.size.calibration": "geometric",
+        "touch.size.scale": "0",
+        "touch.size.bias": "0",
+        "touch.size.isSummed": "0",
+        "ro.min_pointer_dur": "8",
+        "view.touch_slop": "0",
+        "view.scroll_friction_low": "0",
+        "view.scroll_friction_high": "10",
+        "custom.touch.density.up": "890"
+      }
+    },
+    "VisualPerformance": {
+      "ForceFPS": 144,
+      "RefreshRate": "165Hz",
+      "GPUOptimization": "Overclocked",
+      "RenderBufferSize": "UltraMax",
+      "LatencyBypassMode": "HyperTurbo",
+      "ShaderCompression": true,
+      "TextureBoost": true,
+      "HDRColorFix": true
+    },
+    "SystemControl": {
+      "RegistryTweaks": {
+        "InputBoost": true,
+        "DisableAnimations": true,
+        "ForegroundBoost": true,
+        "ThreadOptimization": "UltraHighPriority",
+        "KillDelayServices": 50,
+        "IOLatencyFix": true,
+        "persist.sys.ui.hw": "0",
+        "persist.sys.scrollingcache": "6",
+        "windowsmgr.max_events_per_sec_low": "0",
+        "windowsmgr.max_events_per_sec_high": "90",
+        "pm.dexopt.bg-dexopt": "speed-profile",
+        "pm.dexopt.shared": "speed",
+        "ro.product.density.up": "10",
+        "ro.product.multi_touch_enabled": "true",
+        "ro.sf.lcd.density": "411",
+        "Pixel.Density": "100",
+        "persist.dash.max.rep.resolution": "1920x1080",
+        "windowsmgr.support": true
+      },
+      "MemoryEngine": {
+        "RAMControl": "SmartFlush++",
+        "CacheAggression": 5,
+        "FreeMemoryTarget": "Extreme",
+        "GarbageCollectorBoost": true
+      },
+      "CPUBoost": {
+        "Governor": "ultra_performance",
+        "CoreAffinity": "AllCores",
+        "ThermalThrottling": "BypassFull",
+        "MinFrequencyLock": true,
+        "TurboClock": true
+      }
+    },
+    "SensorAdjustments": {
+      "Gyroscope": {
+        "LatencyFix": 0,
+        "BoostSensitivity": true,
+        "AutoRecenter": true,
+        "UltraPrecision": true
+      },
+      "Accelerometer": {
+        "Damping": 0.05,
+        "ShakeIgnoreLevel": "UltraMax",
+        "SmartBalance": true
+      },
+      "TouchSync": {
+        "FrameLink": true,
+        "InputMatch": true,
+        "DesyncProtector": true
+      }
+    },
+    "AIEnhancer": {
+      "BehaviorPrediction": {
+        "EnemyMovementPattern": "DeepAnalyzed",
+        "AutoDragAdjust": true,
+        "ScopeSwitchPredict": true,
+        "PathAnticipation": true
+      },
+      "ShotCorrection": {
+        "PreFireAdjustment": true,
+        "ReAimDelay": 0.005,
+        "DragCurveOptimization": true,
+        "SmartBulletAlign": true
+      }
+    },
+    "PowerMode": {
+      "BatteryControl": {
+        "LimitBackgroundUsage": true,
+        "CPUPerformanceMode": "GamingUltra",
+        "GPUStabilization": true,
+        "SmartCharge": true
+      },
+      "NetworkBoost": {
+        "PingOptimizer": true,
+        "DNSOverride": "1.1.1.1",
+        "JitterReducer": true,
+        "PacketPrioritization": true,
+        "LossRecovery": true
+      }
+      Device info:"Iphone 16 pro max"
+    },
+    "ExternalSupport": {
+      "Downloadables": [
+        {
+          "Name": "SensiUltraDriverX",
+          "URL": "https://example.com/driver/ultrasensix"
+        },
+        {
+          "Name": "GPU_Config_BoostPackPro",
+          "URL": "https://example.com/files/gpuboostpackpro.zip"
+        },
+        {
+          "Name": "NoLagSystemCoreX",
+          "URL": "https://example.com/download/nolagsystemcorex.json"
+        },
+        {
+          "Name": "UltraFPSUnlocker",
+          "URL": "https://example.com/files/ultrafpsunlocker.json"
+        }
+      ],
+      "DriverInjection": {
+        "Enable": true,
+        "AutoPatchAtLaunch": true,
+        "SafeInjection": true,
+        "HyperBoost": true
+      }
+    }
+  }
+}
+
